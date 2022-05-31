@@ -2,7 +2,7 @@
 
 ## Dupla:
 - Ana Maria: [GitHub](https://github.com/anamariabrito)
-- Nome do integrante 2: [GitHub](https://github.com/<usuario>)
+- Suelen Philot: [GitHub](https://github.com/suelenphilot)
 
 ### Confingurações do Git
 - git help
